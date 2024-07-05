@@ -14,7 +14,8 @@ WebScraper & WebCrawler is a Java-based application that crawls and scrapes data
 - Maven 3.6.3 or higher
 
 ## Use Case Diagram
-![image](https://github.com/Akshat-Kumar-X/Web-Scraper-and-Crawler/assets/112055229/a754632f-d7f6-4cad-99cf-ee97f3126a36)
+<img src="https://github.com/Akshat-Kumar-X/Web-Scraper-and-Crawler/assets/112055229/a754632f-d7f6-4cad-99cf-ee97f3126a36" alt="Use Case Diagram" width="600">
+
 
 # How to Setup
 
