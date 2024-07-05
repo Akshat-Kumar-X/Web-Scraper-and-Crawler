@@ -20,7 +20,7 @@ WebScraper & WebCrawler is a Java-based application that crawls and scrapes data
 # How to Setup
 
 ### Step 1: Install Java
-- Ensure you have Java Development Kit (JDK) installed on your machine. You can download it from the [Oracle website](https://www.oracle.com/java/technologies/downloads/#java11)
+- Ensure you have Java Development Kit (JDK) installed on your machine. You can download it from the [Oracle](https://www.oracle.com/java/technologies/downloads/#java11)
 
 ### Step 2: Install Maven
 - Download and install Apache Maven from the [Official website](https://maven.apache.org/install.html)
