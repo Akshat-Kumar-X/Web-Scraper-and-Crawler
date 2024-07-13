@@ -1,7 +1,7 @@
 # WebScraper & WebCrawler Application
 
 WebScraper & WebCrawler is a Java-based application that crawls and scrapes data from websites. This project uses the `Jsoup` library to parse HTML and extract information, such as product names and prices, from e-commerce websites like Amazon. 
-
+ 
 ## Features
 
 - Crawls and scrapes data from web pages 
