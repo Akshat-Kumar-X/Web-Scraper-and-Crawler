@@ -4,7 +4,7 @@ WebScraper & WebCrawler is a Java-based application that crawls and scrapes data
 
 ## Features
 
-- Crawls and scrapes data from web pages
+- Crawls and scrapes data from web pages 
 - Extracts product information including name, price, and image URL
 - Handles errors and retries on server unavailability
 
